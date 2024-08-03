@@ -3,8 +3,10 @@
 
 Meu nome é Karina Silva, sou brasileira e atualmente sou estudante de desenvolvimento de jogos digitais , análise de dados, Python e tech em geral
  🗣️ pronomes/pronouns : ele/dela / she/her
+<img src="https://github.com/usuario/repositorio/raw/main/images/octocat.png" width="200" height="200" />
 
-![Descrição do Octocat Personalizado](https://myoctocat.com/build-your-octocat/)
+<img src="https://github.com/usuario/repositorio/raw/main/images/octocat.png" width="100" height="100" />
+
 
 
 ![Descrição do GIF](https://media.giphy.com/media/tdLMeEDsWCow4Pb553/giphy.gif)
@@ -12,7 +14,6 @@ Meu nome é Karina Silva, sou brasileira e atualmente sou estudante de desenvolv
 
 My name is Karina Silva, i´m brazilian, now i´m student developer digital game, data analysis and tecnology general 
 
-![Descrição do GIF](https://media.giphy.com/media/tdLMeEDsWCow4Pb553/giphy.gif)
 
 
 ### minhas habilidades, me aprimorando / my skills, myself improve 
