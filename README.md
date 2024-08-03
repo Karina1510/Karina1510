@@ -1,16 +1,14 @@
-## Hi there 👋
+# oi pessoal ! 💁‍♀️👩‍💻
+## Hi everyone! 💁‍♀️👩‍💻
+Meu nome é Karina Silva, sou brasileira e atualmente sou estudante de desenvolvimento de jogos digitais , análise de dados, Python e tech em geral
+My name is Karina Silva, i´m brazilian, now i´m student developer digital game, data analysis and tecnology general 
 
-<!--
-**Karina1510/Karina1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### minhas habilidades / my skills
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" />
+          
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
