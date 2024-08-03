@@ -1,18 +1,19 @@
 # oi pessoal ! 💁‍♀️👩‍💻
 ## Hi everyone! 💁‍♀️👩‍💻
 
-Meu nome é Karina Silva, sou brasileira e atualmente sou estudante de desenvolvimento de jogos digitais , análise de dados, Python e tech em geral
- 🗣️ pronomes/pronouns : ele/dela / she/her
-<img src="https://github.com/usuario/repositorio/raw/main/images/octocat.png" width="200" height="200" />
+# Meu nome é Karina Silva, 
+sou brasileira e atualmente sou estudante de desenvolvimento de jogos digitais , análise de dados, Python e tech em geral
 
-<img src="https://github.com/usuario/repositorio/raw/main/images/octocat.png" width="100" height="100" />
+My name is Karina Silva, i´m brazilian, now i´m student developer digital game, data analysis and tecnology general
 
-
-
-![Descrição do GIF](https://media.giphy.com/media/tdLMeEDsWCow4Pb553/giphy.gif)
+🗣️ pronomes/pronouns : ele/dela / she/her
 
 
-My name is Karina Silva, i´m brazilian, now i´m student developer digital game, data analysis and tecnology general 
+
+
+<img src="https://github.com/Karina1510/Karina1510/blob/main/octocat-1722710807226.png" alt="Descrição do Octocat" style="width: 300px; height: 300px;" /><img src="https://media.giphy.com/media/tdLMeEDsWCow4Pb553/giphy.gif" alt="Descrição do GIF" style="width: 200px; height: 300px;" />
+
+
 
 
 
