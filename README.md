@@ -11,6 +11,8 @@
 
 
 
+
+
 <img src="https://github.com/Karina1510/Karina1510/blob/main/octocat-1722710807226.png" alt="Descrição do Octocat" style="width: 300px; height: 300px;" /><img src="https://media.giphy.com/media/tdLMeEDsWCow4Pb553/giphy.gif" alt="Descrição do GIF" style="width: 200px; height: 300px;" />
 
 
