@@ -2,7 +2,13 @@
 
 # Meu nome é Karina Silva, 
 
-**Portuguese** 🌎: Sou brasileira e atualmente sou estudante de desenvolvimento de jogos digitais , análise de dados, Python e tech em geral
+**Portuguese** 🌎: Sou brasileira e atualmente sou estudante de desenvolvimento de jogos digitais , análise de dados, Python desenvolvimento web desenvolvimento fullstack e tech em geral
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxwNgcvkCreI-2eDl6Ezt_95qBFHJQhRCSQ&s" width="50" height="50" /> <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHi5TyAjMqkDg/company-logo_200_200/company-logo_200_200/0/1709333909772?e=2147483647&v=beta&t=20DNTVpkPLwk1-qQfOPWvmOwj8LDYH_rIXBnUr0N19w" width="50" height="50" />
+
+Aluna Proa profissão
+
+Ex aluna Pulse mais 
 
 
 **English** 🌎: My name is Karina Silva. I’m Brazilian and currently a student of game development, data analysis, and general technology.
@@ -21,9 +27,13 @@
 
 
 
+
+
 # 🧠🤓 minhas habilidades, me aprimorando / my skills, myself improve 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" style="width: 50px; height: 50px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" style="width: 50px; height: 50px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
+          
 
 
 # Contatos 
