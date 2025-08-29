@@ -4,7 +4,7 @@
 
 **Portuguese** 🌎: Sou brasileira e atualmente sou estudante de desenvolvimento de jogos digitais , análise de dados, Python desenvolvimento web desenvolvimento fullstack e tech em geral
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxwNgcvkCreI-2eDl6Ezt_95qBFHJQhRCSQ&s" width="50" height="50" /> <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHi5TyAjMqkDg/company-logo_200_200/company-logo_200_200/0/1709333909772?e=2147483647&v=beta&t=20DNTVpkPLwk1-qQfOPWvmOwj8LDYH_rIXBnUr0N19w" width="50" height="50" />
+<img  align-items: center src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxwNgcvkCreI-2eDl6Ezt_95qBFHJQhRCSQ&s" width="50" height="50" /> <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHi5TyAjMqkDg/company-logo_200_200/company-logo_200_200/0/1709333909772?e=2147483647&v=beta&t=20DNTVpkPLwk1-qQfOPWvmOwj8LDYH_rIXBnUr0N19w" width="50" height="50" />
 
 Aluna Proa profissão
 
