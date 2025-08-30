@@ -2,24 +2,18 @@
 
 # Meu nome é Karina Silva, 
 
-**Portuguese** 🌎: Sou brasileira e atualmente sou estudante de desenvolvimento de jogos digitais , análise de dados, Python desenvolvimento web desenvolvimento fullstack e tech em geral
+### **Português** 🌎: Sou brasileira e atualmente sou estudante de desenvolvimento de jogos digitais , análise de dados, Python desenvolvimento web desenvolvimento fullstack e tech em geral]
+### **English** 🌎: My name is Karina Silva. I’m Brazilian and currently a student of game development, data analysis, and general technology.
+### 🗣️ pronomes/pronouns : ele/dela / she/her
+
+
+### Aluna Proa profissão / Ex aluna Pulse mais
+<br>
 
 <img  align-items: center src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxwNgcvkCreI-2eDl6Ezt_95qBFHJQhRCSQ&s" width="50" height="50" /> <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHi5TyAjMqkDg/company-logo_200_200/company-logo_200_200/0/1709333909772?e=2147483647&v=beta&t=20DNTVpkPLwk1-qQfOPWvmOwj8LDYH_rIXBnUr0N19w" width="50" height="50" />
 
-Aluna Proa profissão
 
-Ex aluna Pulse mais 
-
-
-**English** 🌎: My name is Karina Silva. I’m Brazilian and currently a student of game development, data analysis, and general technology.
-🗣️ pronomes/pronouns : ele/dela / she/her
-
-
-
-
-
-
-<img src="https://github.com/Karina1510/Karina1510/blob/main/octocat-1722710807226.png" alt="Descrição do Octocat" style="width: 300px; height: 300px;" /><img src="https://media.giphy.com/media/tdLMeEDsWCow4Pb553/giphy.gif" alt="Descrição do GIF" style="width: 200px; height: 300px;" />
+<img  align-items: center src="https://github.com/Karina1510/Karina1510/blob/main/octocat-1722710807226.png" alt="Descrição do Octocat" style="width: 300px; height: 300px;" /><img src="https://media.giphy.com/media/tdLMeEDsWCow4Pb553/giphy.gif" alt="Descrição do GIF" style="width: 200px; height: 300px;" />
 
 
 
