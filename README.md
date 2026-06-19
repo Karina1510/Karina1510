@@ -61,6 +61,12 @@ My name is Karina Silva. I'm Brazilian and currently a technology student, focus
 </p>
 
 ---
+## 🐍 Contribuições / Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karina1510/Karina1510/output/github-contribution-grid-snake.svg" alt="Snake animation displaying GitHub contributions"/>
+</p>
+
 
 ## 📫 Contato / Contact
 
