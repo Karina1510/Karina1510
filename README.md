@@ -3,7 +3,7 @@
 <h3 align="center">Meu nome é Karina Silva</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A8C4&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia+%F0%9F%92%BB;Suporte+ti+%7C+An%C3%A1lise+de+Dados+%7C+Desenvolvimento;Tech+Student+%7C+Game+Dev+%7C+Data+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A8C4&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia+%F0%9F%92%BB;Suporte+ti+%7C+An%C3%A1lise+de+Dados+%7C+Desenvolvimento;IT+support+%7C+Data+Analysis+%7C+Tech+developer" alt="Typing SVG" />
 </p>
 
 
@@ -65,10 +65,10 @@ My name is Karina Silva. I'm Brazilian and currently a technology student, focus
 ## 📫 Contato / Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/karina-fabricio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI@gmail.com">
+  <a href="mailto:karinafabriciosilva2010@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
